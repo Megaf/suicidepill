@@ -1,6 +1,6 @@
 minetest.register_node("suicidepill:suicidepill",{
   description = "A suicide pill",
-	drawtype = "plantlike",
+--	drawtype = "plantlike",
 	sunlight_propagates = true,
 --	visual_scale = 1.0,
 	tiles = {"blackpill.png"},
